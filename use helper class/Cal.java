@@ -15,6 +15,6 @@ class Cal {
 		} else if (op.equals("div")) {
 			result = op1 / op2;
 		}
-		System.out.println(result)
+		System.out.println(result);
 	}
 }
